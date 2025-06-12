@@ -72,7 +72,7 @@ Power-ups randomly spawn in **Classic** and **TimeStreak** modes to supercharge 
 | ![image](https://github.com/user-attachments/assets/7aacdf39-68f6-41eb-a477-7d1c81d3bce2)| ![image](https://github.com/user-attachments/assets/18d87ae0-4c79-40e6-b34d-d3363ef3bb31)| ![image](https://github.com/user-attachments/assets/a8506b7e-e1c4-4051-a3ce-3056599d0f5f)
  |
 
-| TimeStreak Mode                                                              | VS Computer Mode                                                              | Multiplayer Mode                                                               |
+| TimeAttack Mode                                                              | VS Computer Mode                                                              | Multiplayer Mode                                                               |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | ![image](https://github.com/user-attachments/assets/cc20db30-24df-43b2-b2d3-bd3024e54c40)| ![image](https://github.com/user-attachments/assets/499f12bf-4189-4304-9ee4-51e502912591)| ![image](https://github.com/user-attachments/assets/86e0d1cd-97ec-4ff4-8b86-b549b135117c)
  |
