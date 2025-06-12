@@ -222,7 +222,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 
 ## 💡 Credits
 
-* Developed by **Thiyaga1586**
+* Developed by [Thiyaga1586](https://github.com/Thiyaga1586)
 * Built using [raylib](https://www.raylib.com/)
 
 ---
